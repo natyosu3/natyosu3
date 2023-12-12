@@ -2,7 +2,7 @@ Hi, I'm **natyosu**.
 
 I've got something to say!
 
-## > man ~/natyosu
+## > less ~/natyosu
 Lang: Go, Python, etc...<br>
 HomePage: https://natyosu.com<br>
 E-mail: nachi334825@gmail.com<br>
