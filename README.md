@@ -2,7 +2,7 @@ Hi, I'm **natyosu**.
 
 Which came first, the egg or the chicken?
 
-## > less ~natyosu/about.me
+## > cat ~natyosu/about.me
 Lang: Go, Python, etc...<br>
 HomePage: https://natyosu.com<br>
 E-mail: nachi334825@gmail.com<br>
