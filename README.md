@@ -15,5 +15,5 @@ I want to be a chicken engineer🐓
 
 ---
 
-![](https://github-readme-stats-mu-eight-90.vercel.app/api?username=natyosu3&count_private=true&theme=dracula)
-![](https://github-readme-stats-mu-eight-90.vercel.app/api/top-langs?username=natyosu3&count_private=true&theme=dracula)
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username={natyosu3})](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={natyosu3})](https://github.com/anuraghazra/github-readme-stats)
