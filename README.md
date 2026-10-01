@@ -1,6 +1,6 @@
 Hi, I'm **natyosu**.
 
-Which came first, the egg or the chicken?
+With great power comes great responsibility.
 
 ## > cat ~natyosu/about.me
 Lang: Go, Python, etc...<br>
@@ -10,4 +10,4 @@ Discord: natyosu.zip<br>
 
 
 ## > nano ~natyosu/future.next
-I want to be a chicken engineer🐓
+Aiming to be an irreplaceable engineer in the age of AI.🧠
